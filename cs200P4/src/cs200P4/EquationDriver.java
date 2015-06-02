@@ -31,6 +31,7 @@ public class EquationDriver {
     		if(debug){
     			System.out.println("SYMBOL TABLE");
     			System.out.println("Test");
+    			System.out.println("Test2");
     			symbolTable.preorderTraverse();
     			System.out.println("END SYMBOL TABLE");
     		}
